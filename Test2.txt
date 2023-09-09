@@ -1,0 +1,3 @@
+Now we are at new branch .
+We will now merge this testbranch2 with testbranch.
+
