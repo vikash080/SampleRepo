@@ -1,0 +1,2 @@
+This is first text file in the repo.
+so we are adding and commiting to the repo.i
